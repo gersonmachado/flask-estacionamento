@@ -1,0 +1,18 @@
+[#CRUD + FLASK]
+Tarefas realizadas:
+
+Ambiente virtual [OK]
+Instalação da biblioteca Flask [OK]
+Instalação do Flask-SQLAlchemy [OK]
+Criando conexão com SQLITE [OK]
+Criar modelo exemplo [OK]
+
+Usar render_template para tentar cadastro via html
+ - Criar templates [OK]
+ - Criar formulário de cadastro [OK]
+ - Adicionar função de registro de DateTime [OK]
+ - Cadastrar no DB [OK]
+ - Adicionar função de registrar saída com DateTime
+ 
+Repositório [OK]
+Add Gitignore [OK]
